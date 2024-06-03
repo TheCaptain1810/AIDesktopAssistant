@@ -75,7 +75,3 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ---
 
 **Note:** Ensure you replace placeholders like `yourusername`, `your-openai-api-key`, and `your-email@example.com` with actual values.
-
----
-
-By following this README file, users should be able to set up and use your Jarvis AI assistant with ease.
